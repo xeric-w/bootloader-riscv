@@ -1,3 +1,27 @@
+# 20260413
+
+## bootloader-riscv
+branch: master \
+tag: NA \
+commit: 35b9f7a0d90164a1bed3fc68d6911133fd6c69eb
+
++ No update
+
+## sophgo-edk2
+branch: devel-sg2042 \
+tag: sg2042_sophgo-edk2_20260408 \
+commit: d8426e472fdea508207ae3ff99ad472f4c089715
+
++ No update
+
+## linux-riscv
+branch: sg2042-dev-6.6 \
+tag: SG2042_Linux-6.6.127_v20260402 \
+commit: 641c5b68a4595cb6ab45cbfa6b8b3d7a165c3f76
+
++ SG2042: Enable AST PCIe based RTC driver
++ SG2042: Fixbug, setting PCIe ATU with wrong value
+
 # 20260408
 
 ## bootloader-riscv
