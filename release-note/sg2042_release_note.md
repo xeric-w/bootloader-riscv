@@ -1,3 +1,26 @@
+# 20260424
+
+## bootloader-riscv
+branch: master \
+tag: NA \
+commit: 35b9f7a0d90164a1bed3fc68d6911133fd6c69eb
+
++ No update
+
+## sophgo-edk2
+branch: devel-sg2042 \
+tag: sg2042_sophgo-edk2_20260424 \
+commit: 0538a9493cf14b6b383842f55918a0e38d4149ac
+
++ SG2042: Modify setup hot key prompt from ESCAPE to F2
+
+## linux-riscv
+branch: sg2042-dev-6.6 \
+tag: SG2042_Linux-6.6.127_v20260402 \
+commit: 641c5b68a4595cb6ab45cbfa6b8b3d7a165c3f76
+
++ No update
+
 # 20260413
 
 ## bootloader-riscv
